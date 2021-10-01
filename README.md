@@ -1,6 +1,6 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Parv 👋</b></h1>
 </p>
 
 <p>
@@ -174,4 +174,3 @@
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 -----
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
