@@ -78,9 +78,9 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.parvbhargava.vercel.app/api?username=parvbhargava&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Parv's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=parvbhargava&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Parv's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.parvbhargava.vercel.app/api/top-langs/?username=parvbhargava&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Parvs's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=parvbhargava&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Parv's Top Languages">
 
 
 
