@@ -24,14 +24,16 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Computer Science Engineer
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Quantum Computing.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🔭 Currently in my Final Year of B.Tech in Computer Science :grin:
+- 🌱 Expanding my shell to learn more each day
+- 👯 Looking forward to become a Machine Learning Developer:wink:
+- 🥅 2022 Goals: Contribute to Open Source projects and finish my paper
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ "We don't want to tell our dreams. We want to show them!"
+
+---
 
 <br>
 
