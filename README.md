@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Parv! <img src="" 
+<h1 align="center">Hey, I'm Parv! <img src="https://github.com/parvbhargava/parvbhargava/blob/main/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> 
