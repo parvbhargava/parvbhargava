@@ -1,117 +1,86 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-<p>
-  <h1 align="center"><b>Hello there, I'm Parv 👋</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
-</p>
+<h1 align="center">Hey, I'm Parv! <img src="" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> 
+</h1>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/parvbhargava" />
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
+	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
 </p>
 
-<p align="center">
-<br>
-<a href="https://www.facebook.com/parv.bhargava.92/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/parv-bhargava-03565b193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:parvbhargavapro@gmail.com?subject=Hello%20Parv"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+---
 
-<br>
+### 
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-### I am a Computer Science Engineer
-- 🔭 Currently in my Final Year of B.Tech in Computer Science :grin:
+- 🔭 Currently in my 3rd Year of B.Tech in Computer Science
 - 🌱 Expanding my shell to learn more each day
-- 👯 Looking forward to become a Machine Learning Developer:wink:
-- 🥅 2022 Goals: Contribute to Open Source projects and finish my paper
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
+- 👯 Looking forward to become a Software Developer integrating Mathematics for higher efficiency and precision
+- 🥅 A keen worker and loves perfection
 - ⚡ "We don't want to tell our dreams. We want to show them!"
 
 ---
 
-<br>
-
-### Languages and Tools: 
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<br>
-<br>
-<br>
-<br>
-
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parvbhargava&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=parvbhargava&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Parv's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=parvbhargava&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Parv's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
-
-### :zap: Recent Github Activity
-  
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-<!--[website]: -->
-[twitter]: https://twitter.com/Parv_Bhargava_?s=09
-[linkedin]: https://www.linkedin.com/in/parv-bhargava-03565b193/
+## 💻 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>&nbsp;
+<h4> Languages </h4>
+<span> 
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+	<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</span>
+<h4> Frameworks </h4>
+<span>
+	<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+	<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+	<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+	<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</span>
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+<h4> IDE </h4>
+<span>
+	<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+	<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+</span>
+<h4> Operating System </h4>
+<span>
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</span>
 
 ---
+## 📊 Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;
+
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&count_private=true&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
+	<br><br>
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&hide=html,css,javascript&theme=tokyonight&layout=compact" />
+</p>
+<p align="center">
+	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=aabir13&theme=react-dark" />
+</p>
+
+---
+
+<h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
+<p align="center">
+	<a href="https://www.linkedin.com/in/aabir-datta-0115821b1" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="mailto:dattaaabir13@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://www.instagram.com/aabir.13/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+	<a href="https://www.facebook.com/aabir.datta13/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+	<a href="https://twitter.com/aabir_13" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+</p>
+
+[twitter]: https://twitter.com/aabir_13
+[linkedin]: https://www.linkedin.com/in/aabir-datta-0115821b1
