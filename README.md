@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;Applied+Mathematics;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
-	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
+	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/parvbhargava" />
 </p>
 
 ---
@@ -62,13 +62,13 @@
 ## 📊 Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabir13&show_icons=true&count_private=true&theme=tokyonight" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabir13&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=parvbhargava&show_icons=true&count_private=true&theme=tokyonight" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parvbhargava&theme=tokyonight" />
 	<br><br>
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir13&hide=html,css,javascript&theme=tokyonight&layout=compact" />
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvbhargava&hide=html,css,javascript&theme=tokyonight&layout=compact" />
 </p>
 <p align="center">
-	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=aabir13&theme=react-dark" />
+	<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=parvbhargava&theme=react-dark" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 <h3 align="center">Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
 <p align="center">
 	<a href="https://www.linkedin.com/in/aabir-datta-0115821b1" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="mailto:dattaaabir13@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="mailto:dattaparvbhargava@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.instagram.com/aabir.13/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 	<a href="https://www.facebook.com/aabir.datta13/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 	<a href="https://twitter.com/aabir_13" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
