@@ -48,6 +48,7 @@
 <h4> IDE </h4>
 <span>
 	<img src="https://img.shields.io/badge/pycharm-15A42D.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /> 
 	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 	<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
 </span>
