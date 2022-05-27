@@ -77,7 +77,7 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/parv-bhargava-03565b193/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:parvbhargavapro@gmail.com?subject=Hello%20Parv" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+	<a href="https://www.instagram.com/parvbhargava_/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 	<a href="https://www.facebook.com/parv.bhargava.92/" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 	<a href="https://twitter.com/Parv_Bhargava_?s=09" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
