@@ -21,7 +21,7 @@
 
 ---
 
-## 💻 Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 12px>&nbsp;
+## 💻 Skills &nbsp;
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -59,7 +59,7 @@
 </span>
 
 ---
-## 📊 Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;
+## 📊 Stats &nbsp;
 
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=parvbhargava&show_icons=true&count_private=true&theme=tokyonight" />
