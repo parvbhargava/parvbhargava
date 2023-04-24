@@ -13,7 +13,7 @@
 
 ### 
 
-- 🔭 Currently in my 4th Year of B.Tech in Computer Science.
+- 🔭 Currently in my final Year of B.Tech in Computer Science.
 - 🌱 Expanding my shell to learn more each day.
 - 👯 Looking forward to become a Machine Learning Developer integrating it with Quantum Computing.
 - 🥅 A keen worker and loves perfection
