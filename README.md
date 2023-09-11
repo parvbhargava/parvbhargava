@@ -13,11 +13,11 @@
 
 ### 
 
-- 🔭 Currently in my final Year of B.Tech in Computer Science.
+- 🔭 Currently enrolled in MS Data Science at George Washington University.
 - 🌱 Expanding my shell to learn more each day.
-- 👯 Looking forward to become a Machine Learning Developer integrating it with Quantum Computing.
+- 👯 Looking forward to becoming a Data scientist.
 - 🥅 A keen worker and loves perfection
-- ⚡ "We don't want to tell our dreams. We want to show them!".
+- ⚡ "I don't want to tell my dreams. I want to show them!".
 
 ---
 
